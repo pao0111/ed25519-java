@@ -1,0 +1,5 @@
+version = '0.0.1'
+
+dependencies {
+	testCompile 'org.hamcrest:hamcrest-all:1.3'
+}
